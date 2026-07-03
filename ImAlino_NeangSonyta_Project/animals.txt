@@ -1,0 +1,198 @@
+Simba,AN002,M,17,Jaguar,Rainforest,E,Brazil,Carnivore,Mammal,11,288,Stable,Old,23/11/2026,23/12/2026,Unfed,7:45:0,18:30:0
+Roxy,AN003,M,23,African Lion,Savanna,D,Kenya,Carnivore,Mammal,92,143,Stable,Young,4/6/2026,4/7/2026,Fed,12:0:0,11:30:0
+Jasper,AN004,M,12,Clownfish,Coral Reef,D,Australia,Omnivore,Fish,142,64,Minor injury,Young,10/9/2026,10/10/2026,Unfed,18:15:0,22:0:0
+Dotto,AN005,M,25,Grey Wolf,Forest,C,Canada,Carnivore,Mammal,40,135,Unhealthy,Old,3/7/2026,10/7/2026,Fed,10:0:0,19:0:0
+Willow,AN006,M,10,Piranha,Freshwater,B,Brazil,Carnivore,Fish,141,374,Stable,Young,13/8/2026,13/9/2026,Unfed,20:15:0,21:30:0
+Shadow,AN007,M,11,Snow Leopard,Mountain,D,Nepal,Carnivore,Mammal,73,34,Stable,Old,11/12/2026,11/1/2026,Fed,20:45:0,12:45:0
+Jasper,AN008,M,8,White Rhino,Savanna,E,South Africa,Herbivore,Mammal,142,135,Excellent,Old,19/7/2026,19/8/2026,Unfed,11:15:0,4:45:0
+Roxy,AN009,M,4,Jaguar,Rainforest,B,Brazil,Carnivore,Mammal,165,82,Excellent,Mature,3/10/2026,3/11/2026,Unfed,12:45:0,16:30:0
+Leo,AN010,M,44,Green Iguana,Rainforest,E,Brazil,Herbivore,Reptile,197,137,Excellent,Mature,10/2/2026,10/3/2026,Unfed,5:45:0,0:30:0
+Roxy,AN011,M,33,Komodo Dragon,Forest,A,Indonesia,Carnivore,Reptile,227,321,Recovering,Old,20/9/2026,20/10/2026,Fed,4:30:0,5:0:0
+Bruno,AN012,F,1,Clownfish,Coral Reef,A,Australia,Omnivore,Fish,242,186,Recovering,Young,8/1/2026,8/2/2026,Fed,2:45:0,2:15:0
+Maple,AN013,F,18,African Elephant,Savanna,B,Kenya,Herbivore,Mammal,72,271,Under observation,Mature,18/4/2026,18/5/2026,Fed,22:30:0,12:30:0
+Sage,AN014,F,8,Flamingo,Wetland,B,Kenya,Herbivore,Bird,62,33,Recovering,Young,18/10/2026,18/11/2026,Fed,18:15:0,0:0:0
+Pearl,AN015,M,4,Fire Salamandr,Forest,A,Spain,Carnivore,Amphibian,236,17,Recovering,Young,8/9/2026,8/10/2026,Unfed,21:45:0,6:15:0
+Finn,AN016,F,4,Bullfrog,Wetland,D,USA,Carnivore,Amphibian,211,209,Stable,Young,22/2/2026,22/3/2026,Unfed,11:45:0,13:45:0
+Luna,AN017,M,1,Bullfrog,Wetland,D,USA,Carnivore,Amphibian,191,174,Healthy,Young,7/4/2026,7/5/2026,Unfed,4:45:0,5:30:0
+Ruby,AN018,M,29,Macaw,Rainforest,E,Brazil,Herbivore,Bird,30,26,Excellent,Old,3/1/2026,3/2/2026,Fed,5:45:0,15:45:0
+Sasha,AN019,M,6,Koala,Forest,D,Australia,Herbivore,Mammal,5,200,Recovering,Mature,14/5/2026,14/6/2026,Unfed,4:15:0,9:15:0
+Hunter,AN020,M,24,Snow Leopard,Mountain,C,Nepal,Carnivore,Mammal,19,26,Under observation,Mature,28/9/2026,28/10/2026,Fed,1:0:0,5:0:0
+Rocky,AN021,M,7,Clownfish,Coral Reef,A,Australia,Omnivore,Fish,246,292,Stable,Old,2/10/2026,2/11/2026,Fed,13:30:0,8:15:0
+Talon,AN022,F,4,Piranha,Freshwater,C,Brazil,Carnivore,Fish,106,68,Excellent,Old,15/5/2026,15/6/2026,Unfed,2:0:0,14:0:0
+Ziggy,AN023,M,17,Cheetah,Savanna,C,Tanzania,Carnivore,Mammal,38,179,Healthy,Young,10/6/2026,10/7/2026,Fed,14:30:0,19:0:0
+Pixel,AN024,F,15,Piranha,Freshwater,A,Brazil,Carnivore,Fish,245,69,Recovering,Young,24/2/2026,24/3/2026,Fed,8:30:0,19:15:0
+Lily,AN025,M,5,Fire Salamandr,Forest,E,Spain,Carnivore,Amphibian,130,129,Healthy,Young,14/11/2026,14/12/2026,Unfed,1:0:0,10:15:0
+Jasper,AN026,M,12,Bluefin Tuna,Ocean,D,Japan,Carnivore,Fish,146,362,Minor injury,Old,4/1/2026,4/2/2026,Fed,22:15:0,17:0:0
+Hunter,AN027,M,28,Great Horned Owl,Forest,B,USA,Carnivore,Bird,15,158,Recovering,Young,7/6/2026,7/7/2026,Fed,21:0:0,11:45:0
+Frost,AN028,M,15,Great White,Ocean,B,Australia,Carnivore,Fish,226,84,Stable,Mature,6/1/2026,6/2/2026,Unfed,13:15:0,8:15:0
+Charlie,AN029,F,1,Axolotl,Wetland,D,Mexico,Carnivore,Amphibian,61,103,Minor injury,Mature,27/5/2026,27/6/2026,Fed,7:0:0,21:15:0
+Lily,AN030,F,5,Ostrich,Savanna,C,Kenya,Omnivore,Bird,94,329,Under observation,Mature,27/11/2026,27/12/2026,Unfed,0:0:0,8:15:0
+Jasper,AN031,M,7,Bearded Dragon,Desert,E,Australia,Omnivore,Reptile,116,177,Excellent,Mature,20/7/2026,20/8/2026,Fed,12:15:0,8:0:0
+Hazel,AN032,M,9,Fire Salamandr,Forest,E,Spain,Carnivore,Amphibian,180,369,Excellent,Old,7/11/2026,7/12/2026,Unfed,13:0:0,21:30:0
+Bruno,AN033,M,12,Great White,Ocean,C,Australia,Carnivore,Fish,134,159,Excellent,Mature,13/6/2026,13/7/2026,Unfed,17:15:0,6:45:0
+Storm,AN034,M,10,Piranha,Freshwater,E,Brazil,Carnivore,Fish,82,208,Under observation,Young,10/5/2026,10/6/2026,Fed,13:30:0,14:45:0
+Buck,AN035,M,33,Flamingo,Wetland,D,Kenya,Herbivore,Bird,208,377,Stable,Old,10/2/2026,10/3/2026,Unfed,2:15:0,21:30:0
+Nala,AN036,M,1,Giant Panda,Forest,A,China,Herbivore,Mammal,67,244,Under observation,Young,14/8/2026,14/9/2026,Fed,22:45:0,15:45:0
+Milo,AN037,M,25,Bison,Grassland,A,USA,Herbivore,Mammal,204,218,Stable,Young,17/12/2026,17/1/2026,Unfed,1:15:0,3:45:0
+Mocha,AN038,F,25,African Elephant,Savanna,D,Kenya,Herbivore,Mammal,161,369,Under observation,Mature,15/9/2026,15/10/2026,Fed,23:45:0,14:30:0
+Pearl,AN039,F,25,Bison,Grassland,E,USA,Herbivore,Mammal,129,321,Stable,Mature,3/8/2026,3/9/2026,Unfed,7:30:0,10:30:0
+Daisy,AN040,M,10,Saltwater Croc,Wetland,B,Australia,Carnivore,Reptile,103,356,Stable,Old,3/4/2026,3/5/2026,Unfed,13:30:0,17:45:0
+Luna,AN041,M,27,Emu,Grassland,D,Australia,Omnivore,Bird,236,395,Under observation,Old,28/1/2026,28/2/2026,Unfed,15:0:0,11:30:0
+Toby,AN042,M,32,Golden Eagle,Mountain,B,Scotland,Carnivore,Bird,74,224,Minor injury,Young,11/7/2026,11/8/2026,Unfed,23:15:0,14:15:0
+Ziggy,AN043,M,15,Great White,Ocean,D,Australia,Carnivore,Fish,156,289,Excellent,Young,21/2/2026,21/3/2026,Unfed,4:45:0,5:0:0
+Storm,AN044,F,7,Brown Bear,Forest,D,Russia,Omnivore,Mammal,88,173,Minor injury,Mature,9/7/2026,9/8/2026,Fed,15:0:0,23:0:0
+Shadow,AN045,M,3,Peregrine Falcon,Mountain,A,Canada,Carnivore,Bird,248,127,Stable,Young,5/10/2026,5/11/2026,Fed,4:45:0,21:0:0
+Simba,AN046,F,45,Galapagos Tort,Island,C,Ecuador,Herbivore,Reptile,201,189,Stable,Old,24/10/2026,24/11/2026,Fed,5:30:0,3:0:0
+Finn,AN047,F,13,Raccoon,Forest,B,USA,Omnivore,Mammal,24,304,Excellent,Old,4/4/2026,4/5/2026,Unfed,21:0:0,18:0:0
+Ziggy,AN048,F,24,Peregrine Falcon,Mountain,A,Canada,Carnivore,Bird,134,332,Recovering,Young,27/7/2026,27/8/2026,Unfed,3:45:0,11:45:0
+Milo,AN049,F,3,Fire Salamandr,Forest,E,Spain,Carnivore,Amphibian,171,139,Under observation,Old,15/8/2026,15/9/2026,Unfed,23:30:0,10:15:0
+Willow,AN050,F,8,Jaguar,Rainforest,D,Brazil,Carnivore,Mammal,150,313,Excellent,Mature,1/6/2026,1/7/2026,Unfed,10:15:0,15:15:0
+Jasper,AN051,F,18,Peregrine Falcon,Mountain,E,Canada,Carnivore,Bird,184,142,Under observation,Young,7/9/2026,7/10/2026,Fed,7:45:0,15:15:0
+Apollo,AN052,F,8,Axolotl,Wetland,A,Mexico,Carnivore,Amphibian,28,151,Stable,Mature,8/12/2026,8/1/2026,Unfed,21:30:0,15:30:0
+Frost,AN053,F,23,Wild Turkey,Forest,D,USA,Omnivore,Bird,74,157,Recovering,Young,24/2/2026,24/3/2026,Fed,10:0:0,23:15:0
+Simba,AN054,F,9,Zebra,Savanna,E,Kenya,Herbivore,Mammal,199,269,Under observation,Mature,27/2/2026,27/3/2026,Fed,9:15:0,11:15:0
+Leo,AN055,M,9,Raccoon,Forest,A,USA,Omnivore,Mammal,18,284,Recovering,Old,21/3/2026,21/4/2026,Unfed,3:0:0,18:30:0
+Apollo,AN056,F,22,Toucan,Rainforest,B,Brazil,Herbivore,Bird,18,130,Minor injury,Young,13/2/2026,13/3/2026,Unfed,2:0:0,4:15:0
+Olive,AN057,M,16,Galapagos Tort,Island,A,Ecuador,Herbivore,Reptile,147,392,Minor injury,Old,26/10/2026,26/11/2026,Fed,16:45:0,14:45:0
+Hunter,AN058,F,10,Raccoon,Forest,E,USA,Omnivore,Mammal,163,31,Under observation,Old,25/2/2026,25/3/2026,Fed,20:15:0,8:0:0
+Ruby,AN059,M,18,Giraffe,Savanna,A,Tanzania,Herbivore,Mammal,45,2,Minor injury,Mature,20/12/2026,20/1/2026,Unfed,9:0:0,7:30:0
+Duke,AN060,F,2,Fire Salamandr,Forest,B,Spain,Carnivore,Amphibian,241,136,Excellent,Old,26/11/2026,26/12/2026,Fed,13:0:0,17:15:0
+Milo,AN061,F,14,Koi,Freshwater,B,Japan,Omnivore,Fish,23,31,Stable,Mature,24/10/2026,24/11/2026,Unfed,14:0:0,14:30:0
+Sasha,AN062,F,9,Axolotl,Wetland,E,Mexico,Carnivore,Amphibian,131,225,Healthy,Old,14/1/2026,14/2/2026,Unfed,19:30:0,0:0:0
+Buck,AN063,M,25,Giant Panda,Forest,C,China,Herbivore,Mammal,152,21,Stable,Mature,21/9/2026,21/10/2026,Unfed,8:15:0,18:45:0
+Nova,AN064,M,8,Bluefin Tuna,Ocean,C,Japan,Carnivore,Fish,109,171,Recovering,Old,28/2/2026,28/3/2026,Fed,10:45:0,22:45:0
+Maple,AN065,F,25,Wild Boar,Forest,E,Germany,Omnivore,Mammal,14,233,Healthy,Mature,11/5/2026,11/6/2026,Fed,12:0:0,21:45:0
+Luna,AN066,M,34,Emu,Grassland,C,Australia,Omnivore,Bird,164,388,Minor injury,Old,25/8/2026,25/9/2026,Fed,6:30:0,17:15:0
+Gus,AN067,F,4,Wild Boar,Forest,A,Germany,Omnivore,Mammal,166,312,Stable,Old,10/3/2026,10/4/2026,Fed,17:45:0,2:15:0
+Mocha,AN068,M,21,Spotted Hyena,Savanna,B,Kenya,Carnivore,Mammal,132,367,Recovering,Old,9/12/2026,9/1/2026,Unfed,15:45:0,7:45:0
+Milo,AN069,F,13,Green Iguana,Rainforest,E,Brazil,Herbivore,Reptile,135,383,Stable,Young,25/5/2026,25/6/2026,Unfed,10:30:0,0:30:0
+Olive,AN070,F,3,Bullfrog,Wetland,D,USA,Carnivore,Amphibian,142,248,Recovering,Mature,25/9/2026,25/10/2026,Unfed,14:30:0,6:15:0
+Storm,AN071,M,55,Galapagos Tort,Island,D,Ecuador,Herbivore,Reptile,16,163,Excellent,Mature,26/12/2026,26/1/2026,Unfed,12:15:0,15:0:0
+Ranger,AN072,F,4,African Elephant,Savanna,D,Kenya,Herbivore,Mammal,30,270,Minor injury,Young,5/12/2026,5/1/2026,Unfed,20:15:0,2:45:0
+Lily,AN073,F,21,Brown Bear,Forest,A,Russia,Omnivore,Mammal,223,169,Excellent,Old,11/7/2026,11/8/2026,Unfed,17:0:0,19:0:0
+Pearl,AN074,F,8,Bison,Grassland,A,USA,Herbivore,Mammal,116,51,Excellent,Old,15/2/2026,15/3/2026,Fed,22:30:0,0:0:0
+Luna,AN075,F,12,Chimpanzee,Rainforest,C,Congo,Omnivore,Mammal,115,75,Stable,Old,19/7/2026,19/8/2026,Fed,5:15:0,2:45:0
+Buck,AN076,M,8,Great White,Ocean,E,Australia,Carnivore,Fish,41,119,Minor injury,Old,15/5/2026,15/6/2026,Unfed,21:0:0,14:30:0
+Ziggy,AN077,M,2,Poison Dart Fr,Rainforest,D,Colombia,Carnivore,Amphibian,246,177,Under observation,Mature,14/11/2026,14/12/2026,Unfed,14:30:0,6:45:0
+Charlie,AN078,M,25,Toucan,Rainforest,E,Brazil,Herbivore,Bird,96,295,Recovering,Old,1/5/2026,1/6/2026,Unfed,8:0:0,18:0:0
+Frost,AN079,F,14,Clownfish,Coral Reef,C,Australia,Omnivore,Fish,203,118,Under observation,Mature,21/4/2026,21/5/2026,Fed,19:30:0,21:15:0
+Charlie,AN080,M,5,Bluefin Tuna,Ocean,D,Japan,Carnivore,Fish,13,297,Recovering,Old,3/3/2026,3/4/2026,Unfed,10:45:0,5:15:0
+Ziggy,AN081,F,17,African Elephant,Savanna,E,Kenya,Herbivore,Mammal,238,140,Stable,Mature,26/8/2026,26/9/2026,Unfed,23:30:0,3:45:0
+Milo,AN082,M,22,Cheetah,Savanna,D,Tanzania,Carnivore,Mammal,221,286,Recovering,Young,1/7/2026,1/8/2026,Unfed,17:0:0,14:30:0
+Frost,AN083,F,10,Poison Dart Fr,Rainforest,D,Colombia,Carnivore,Amphibian,215,327,Recovering,Young,8/11/2026,8/12/2026,Unfed,0:30:0,19:15:0
+Rocky,AN084,F,15,Koi,Freshwater,C,Japan,Omnivore,Fish,171,210,Healthy,Young,2/1/2026,2/2/2026,Unfed,15:0:0,3:15:0
+Buddy,AN085,F,30,Saltwater Croc,Wetland,C,Australia,Carnivore,Reptile,176,381,Excellent,Old,19/7/2026,19/8/2026,Fed,13:0:0,15:45:0
+Max,AN086,F,7,Grizzly Bear,Forest,D,Canada,Omnivore,Mammal,118,121,Recovering,Young,12/11/2026,12/12/2026,Unfed,1:45:0,8:15:0
+Mocha,AN087,M,22,Spotted Hyena,Savanna,B,Kenya,Carnivore,Mammal,169,328,Under observation,Young,26/1/2026,26/2/2026,Unfed,7:15:0,18:15:0
+Roxy,AN088,M,19,Cheetah,Savanna,B,Tanzania,Carnivore,Mammal,213,120,Recovering,Young,1/10/2026,1/11/2026,Unfed,4:15:0,17:30:0
+Coco,AN089,M,5,Hippopotamus,Wetland,A,Uganda,Herbivore,Mammal,96,122,Under observation,Mature,6/1/2026,6/2/2026,Unfed,1:15:0,23:45:0
+Coco,AN090,M,31,King Cobra,Rainforest,D,India,Carnivore,Reptile,204,186,Under observation,Old,15/2/2026,15/3/2026,Fed,19:0:0,23:30:0
+Flash,AN091,M,4,Macaw,Rainforest,D,Brazil,Herbivore,Bird,221,206,Minor injury,Old,16/2/2026,16/3/2026,Unfed,2:0:0,10:15:0
+Buddy,AN092,F,20,Cheetah,Savanna,E,Tanzania,Carnivore,Mammal,145,365,Recovering,Mature,17/10/2026,17/11/2026,Unfed,14:45:0,3:0:0
+Flash,AN093,M,7,Koi,Freshwater,D,Japan,Omnivore,Fish,232,117,Minor injury,Mature,13/8/2026,13/9/2026,Unfed,23:0:0,10:45:0
+Maple,AN094,F,12,Chimpanzee,Rainforest,B,Congo,Omnivore,Mammal,180,243,Healthy,Young,3/2/2026,3/3/2026,Unfed,3:30:0,4:0:0
+Pixel,AN095,F,43,Bearded Dragon,Desert,A,Australia,Omnivore,Reptile,110,182,Excellent,Mature,2/12/2026,2/1/2026,Unfed,19:30:0,11:0:0
+Ranger,AN096,M,10,Galapagos Tort,Island,D,Ecuador,Herbivore,Reptile,62,56,Recovering,Old,4/6/2026,4/7/2026,Unfed,18:15:0,13:0:0
+Maple,AN097,F,1,Clownfish,Coral Reef,B,Australia,Omnivore,Fish,74,360,Recovering,Mature,1/6/2026,1/7/2026,Fed,4:45:0,2:15:0
+Bella,AN098,M,12,Bluefin Tuna,Ocean,E,Japan,Carnivore,Fish,60,193,Minor injury,Mature,6/6/2026,6/7/2026,Unfed,9:30:0,18:0:0
+Milo,AN099,M,25,Snow Leopard,Mountain,E,Nepal,Carnivore,Mammal,17,346,Healthy,Mature,22/8/2026,22/9/2026,Unfed,15:45:0,13:30:0
+Roxy,AN100,M,12,Koala,Forest,D,Australia,Herbivore,Mammal,33,146,Excellent,Old,16/10/2026,16/11/2026,Unfed,1:15:0,12:0:0
+Simba,AN101,F,7,African Lion,Savanna,B,Kenya,Carnivore,Mammal,200,131,Recovering,Mature,1/2/2026,1/3/2026,Unfed,23:45:0,5:15:0
+Ziggy,AN102,M,33,Golden Eagle,Mountain,E,Scotland,Carnivore,Bird,218,343,Recovering,Young,28/7/2026,28/8/2026,Fed,13:0:0,14:0:0
+Finn,AN103,F,19,Chimpanzee,Rainforest,D,Congo,Omnivore,Mammal,186,328,Minor injury,Mature,13/2/2026,13/3/2026,Fed,10:15:0,19:45:0
+Pepper,AN104,M,7,Axolotl,Wetland,A,Mexico,Carnivore,Amphibian,67,224,Under observation,Mature,3/9/2026,3/10/2026,Unfed,9:30:0,7:30:0
+Rocky,AN105,M,17,Giraffe,Savanna,E,Tanzania,Herbivore,Mammal,54,398,Recovering,Mature,27/12/2026,27/1/2026,Fed,7:0:0,4:30:0
+Rex,AN106,M,25,Zebra,Savanna,A,Kenya,Herbivore,Mammal,50,396,Excellent,Mature,25/8/2026,25/9/2026,Unfed,21:30:0,20:30:0
+Gus,AN107,M,16,White Rhino,Savanna,D,South Africa,Herbivore,Mammal,166,156,Recovering,Old,12/1/2026,12/2/2026,Fed,9:45:0,14:0:0
+Pepper,AN108,F,3,Snow Leopard,Mountain,A,Nepal,Carnivore,Mammal,162,305,Under observation,Mature,19/8/2026,19/9/2026,Fed,14:15:0,10:45:0
+Milo,AN109,M,29,Komodo Dragon,Forest,A,Indonesia,Carnivore,Reptile,212,176,Excellent,Young,21/9/2026,21/10/2026,Fed,1:15:0,22:45:0
+Sage,AN110,M,24,Flamingo,Wetland,C,Kenya,Herbivore,Bird,239,145,Minor injury,Mature,22/6/2026,22/7/2026,Fed,20:30:0,2:30:0
+Pixel,AN111,F,10,Red Fox,Forest,C,Germany,Carnivore,Mammal,190,337,Under observation,Young,3/6/2026,3/7/2026,Fed,11:30:0,20:45:0
+Echo,AN112,M,10,African Elephant,Savanna,E,Kenya,Herbivore,Mammal,101,330,Recovering,Young,23/11/2026,23/12/2026,Fed,20:45:0,16:30:0
+Pepper,AN113,F,6,Bengal Tiger,Rainforest,B,India,Carnivore,Mammal,92,393,Minor injury,Young,5/4/2026,5/5/2026,Fed,2:30:0,3:0:0
+Lily,AN114,M,10,Piranha,Freshwater,D,Brazil,Carnivore,Fish,44,84,Stable,Old,26/10/2026,26/11/2026,Fed,23:45:0,1:45:0
+Buck,AN115,M,29,Great Horned Owl,Forest,E,USA,Carnivore,Bird,77,386,Excellent,Mature,18/4/2026,18/5/2026,Fed,9:45:0,6:30:0
+Finn,AN116,F,8,Poison Dart Fr,Rainforest,C,Colombia,Carnivore,Amphibian,204,196,Under observation,Old,6/7/2026,6/8/2026,Fed,19:15:0,8:0:0
+Apollo,AN117,F,9,Koi,Freshwater,A,Japan,Omnivore,Fish,187,265,Healthy,Mature,25/2/2026,25/3/2026,Fed,8:45:0,16:15:0
+Daisy,AN118,M,29,Wild Turkey,Forest,C,USA,Omnivore,Bird,243,14,Minor injury,Young,17/7/2026,17/8/2026,Unfed,7:45:0,2:30:0
+Bella,AN119,F,4,Giant Panda,Forest,C,China,Herbivore,Mammal,207,75,Stable,Young,27/5/2026,27/6/2026,Unfed,22:15:0,22:45:0
+Onyx,AN120,M,6,Flamingo,Wetland,A,Kenya,Herbivore,Bird,70,111,Stable,Old,20/12/2026,20/1/2026,Unfed,3:30:0,7:30:0
+Luna,AN121,M,14,Spotted Hyena,Savanna,E,Kenya,Carnivore,Mammal,122,33,Healthy,Mature,18/10/2026,18/11/2026,Fed,20:15:0,22:15:0
+Hazel,AN122,M,20,Wild Boar,Forest,C,Germany,Omnivore,Mammal,66,293,Minor injury,Young,22/11/2026,22/12/2026,Fed,16:30:0,2:0:0
+Apollo,AN123,M,25,Golden Eagle,Mountain,C,Scotland,Carnivore,Bird,69,383,Healthy,Mature,12/2/2026,12/3/2026,Fed,23:0:0,18:30:0
+Max,AN124,F,18,African Elephant,Savanna,C,Kenya,Herbivore,Mammal,213,330,Stable,Old,23/8/2026,23/9/2026,Unfed,20:15:0,4:0:0
+Smokey,AN125,F,1,Fire Salamandr,Forest,C,Spain,Carnivore,Amphibian,56,23,Stable,Young,10/6/2026,10/7/2026,Unfed,17:45:0,8:0:0
+Nala,AN126,F,6,Koi,Freshwater,A,Japan,Omnivore,Fish,226,336,Recovering,Mature,26/2/2026,26/3/2026,Unfed,13:45:0,23:45:0
+Lily,AN127,M,32,Golden Eagle,Mountain,D,Scotland,Carnivore,Bird,99,266,Recovering,Young,14/12/2026,14/1/2026,Fed,13:15:0,17:30:0
+Charlie,AN128,M,11,Chimpanzee,Rainforest,C,Congo,Omnivore,Mammal,83,229,Under observation,Old,6/7/2026,6/8/2026,Unfed,11:45:0,1:30:0
+Hazel,AN129,F,11,Great White,Ocean,A,Australia,Carnivore,Fish,24,344,Excellent,Mature,17/6/2026,17/7/2026,Fed,0:15:0,19:45:0
+Buddy,AN130,M,8,Grey Wolf,Forest,C,Canada,Carnivore,Mammal,97,197,Under observation,Young,5/10/2026,5/11/2026,Unfed,11:30:0,14:0:0
+Buddy,AN131,F,26,Galapagos Tort,Island,C,Ecuador,Herbivore,Reptile,171,143,Stable,Young,24/1/2026,24/2/2026,Fed,15:45:0,17:0:0
+Smokey,AN132,F,23,Brown Bear,Forest,D,Russia,Omnivore,Mammal,59,314,Recovering,Old,7/8/2026,7/9/2026,Fed,4:0:0,14:15:0
+Gus,AN133,M,6,Fire Salamandr,Forest,C,Spain,Carnivore,Amphibian,186,34,Under observation,Old,10/5/2026,10/6/2026,Fed,22:15:0,11:15:0
+Nala,AN134,M,8,Spotted Hyena,Savanna,D,Kenya,Carnivore,Mammal,11,185,Under observation,Old,15/6/2026,15/7/2026,Fed,19:0:0,2:30:0
+Talon,AN135,F,34,Ostrich,Savanna,D,Kenya,Omnivore,Bird,201,210,Under observation,Young,11/3/2026,11/4/2026,Fed,14:45:0,21:30:0
+Smokey,AN136,M,25,African Elephant,Savanna,B,Kenya,Herbivore,Mammal,115,258,Healthy,Young,5/9/2026,5/10/2026,Unfed,5:15:0,10:15:0
+Sage,AN137,F,6,Peregrine Falcon,Mountain,C,Canada,Carnivore,Bird,55,326,Under observation,Mature,21/3/2026,21/4/2026,Unfed,19:0:0,16:15:0
+Hunter,AN138,M,11,Bearded Dragon,Desert,E,Australia,Omnivore,Reptile,189,310,Recovering,Old,27/1/2026,27/2/2026,Fed,2:0:0,20:30:0
+Simba,AN139,F,10,Koi,Freshwater,A,Japan,Omnivore,Fish,132,322,Under observation,Mature,10/11/2026,10/12/2026,Unfed,7:45:0,9:45:0
+Misty,AN140,M,6,Cheetah,Savanna,D,Tanzania,Carnivore,Mammal,111,248,Minor injury,Young,20/6/2026,20/7/2026,Fed,10:30:0,23:30:0
+Buddy,AN141,F,33,Ostrich,Savanna,E,Kenya,Omnivore,Bird,32,164,Stable,Mature,9/2/2026,9/3/2026,Unfed,7:15:0,3:0:0
+Storm,AN142,F,8,Wild Boar,Forest,B,Germany,Omnivore,Mammal,213,168,Under observation,Old,7/6/2026,7/7/2026,Fed,15:45:0,15:30:0
+Bella,AN143,M,26,Nile Crocodile,Wetland,E,Kenya,Carnivore,Reptile,122,124,Stable,Old,2/6/2026,2/7/2026,Fed,9:45:0,19:45:0
+Ziggy,AN144,M,4,Wild Boar,Forest,D,Germany,Omnivore,Mammal,39,136,Excellent,Mature,12/7/2026,12/8/2026,Fed,12:0:0,18:15:0
+Pixel,AN145,F,5,Great Horned Owl,Forest,D,USA,Carnivore,Bird,134,231,Under observation,Mature,22/10/2026,22/11/2026,Fed,4:0:0,12:30:0
+Pixel,AN146,F,10,Bald Eagle,Mountain,B,USA,Carnivore,Bird,159,261,Minor injury,Old,2/1/2026,2/2/2026,Fed,4:30:0,15:45:0
+Echo,AN147,M,11,White Rhino,Savanna,E,South Africa,Herbivore,Mammal,86,84,Minor injury,Old,27/12/2026,27/1/2026,Unfed,18:30:0,16:45:0
+Finn,AN148,F,8,Fire Salamandr,Forest,A,Spain,Carnivore,Amphibian,99,170,Excellent,Young,19/7/2026,19/8/2026,Unfed,23:0:0,19:45:0
+Flash,AN149,M,24,Brown Bear,Forest,A,Russia,Omnivore,Mammal,154,246,Stable,Old,24/11/2026,24/12/2026,Unfed,4:15:0,1:0:0
+Bella,AN150,F,11,Zebra,Savanna,D,Kenya,Herbivore,Mammal,43,212,Excellent,Young,17/7/2026,17/8/2026,Unfed,23:0:0,22:15:0
+Simba,AN151,F,43,King Cobra,Rainforest,D,India,Carnivore,Reptile,139,193,Recovering,Young,18/8/2026,18/9/2026,Unfed,17:30:0,21:30:0
+Apollo,AN152,M,4,Great White,Ocean,C,Australia,Carnivore,Fish,147,153,Stable,Mature,23/5/2026,23/6/2026,Fed,22:45:0,10:45:0
+Pixel,AN153,F,19,Peregrine Falcon,Mountain,A,Canada,Carnivore,Bird,151,347,Under observation,Mature,27/7/2026,27/8/2026,Unfed,4:30:0,1:30:0
+Daisy,AN154,F,8,Fire Salamandr,Forest,C,Spain,Carnivore,Amphibian,196,246,Stable,Young,9/9/2026,9/10/2026,Unfed,4:0:0,19:15:0
+Luna,AN155,M,21,Bison,Grassland,B,USA,Herbivore,Mammal,18,52,Minor injury,Mature,16/12/2026,16/1/2026,Fed,21:15:0,0:15:0
+Flash,AN156,F,31,Emu,Grassland,B,Australia,Omnivore,Bird,198,148,Recovering,Mature,2/11/2026,2/12/2026,Fed,20:15:0,17:0:0
+Toby,AN157,M,2,Hippopotamus,Wetland,D,Uganda,Herbivore,Mammal,206,254,Stable,Old,2/5/2026,2/6/2026,Fed,9:0:0,10:30:0
+Flash,AN158,F,9,Macaw,Rainforest,E,Brazil,Herbivore,Bird,124,140,Stable,Young,6/6/2026,6/7/2026,Unfed,20:30:0,22:15:0
+Frost,AN159,F,10,African Lion,Savanna,E,Kenya,Carnivore,Mammal,177,388,Stable,Young,28/10/2026,28/11/2026,Unfed,13:30:0,2:45:0
+Charlie,AN160,M,3,Piranha,Freshwater,D,Brazil,Carnivore,Fish,87,128,Healthy,Mature,8/7/2026,8/8/2026,Unfed,8:30:0,9:0:0
+Flash,AN161,F,23,Brown Bear,Forest,B,Russia,Omnivore,Mammal,20,342,Healthy,Mature,6/5/2026,6/6/2026,Unfed,21:30:0,22:0:0
+Duke,AN162,F,10,Bluefin Tuna,Ocean,B,Japan,Carnivore,Fish,61,69,Minor injury,Young,24/8/2026,24/9/2026,Unfed,13:45:0,17:15:0
+Buck,AN163,M,17,Bison,Grassland,D,USA,Herbivore,Mammal,140,361,Recovering,Young,4/10/2026,4/11/2026,Fed,17:15:0,18:15:0
+Bruno,AN164,F,4,Giraffe,Savanna,B,Tanzania,Herbivore,Mammal,188,299,Minor injury,Young,15/9/2026,15/10/2026,Fed,14:15:0,16:45:0
+Finn,AN165,M,36,Macaw,Rainforest,D,Brazil,Herbivore,Bird,177,158,Excellent,Young,9/7/2026,9/8/2026,Fed,23:15:0,18:0:0
+Hazel,AN166,F,23,Grey Wolf,Forest,A,Canada,Carnivore,Mammal,143,31,Healthy,Mature,10/1/2026,10/2/2026,Unfed,5:15:0,20:45:0
+Storm,AN167,F,25,Great Horned Owl,Forest,D,USA,Carnivore,Bird,25,350,Excellent,Old,21/3/2026,21/4/2026,Unfed,3:15:0,17:45:0
+Buddy,AN168,M,54,King Cobra,Rainforest,A,India,Carnivore,Reptile,198,12,Recovering,Mature,24/11/2026,24/12/2026,Unfed,17:45:0,7:15:0
+Tank,AN169,M,18,Macaw,Rainforest,B,Brazil,Herbivore,Bird,244,372,Healthy,Young,14/11/2026,14/12/2026,Fed,7:15:0,2:0:0
+Max,AN170,F,10,Clownfish,Coral Reef,A,Australia,Omnivore,Fish,67,380,Healthy,Mature,8/8/2026,8/9/2026,Fed,1:15:0,16:30:0
+Sandy,AN171,F,19,Giant Panda,Forest,E,China,Herbivore,Mammal,202,345,Recovering,Young,5/5/2026,5/6/2026,Fed,13:30:0,8:0:0
+Hunter,AN172,M,41,Green Iguana,Rainforest,D,Brazil,Herbivore,Reptile,147,254,Healthy,Mature,22/11/2026,22/12/2026,Unfed,16:30:0,22:45:0
+Milo,AN173,F,25,Emu,Grassland,B,Australia,Omnivore,Bird,198,276,Minor injury,Young,10/4/2026,10/5/2026,Fed,14:0:0,17:45:0
+Pixel,AN174,M,25,Emu,Grassland,B,Australia,Omnivore,Bird,70,105,Recovering,Old,15/2/2026,15/3/2026,Unfed,2:15:0,1:30:0
+Buck,AN175,M,5,Golden Eagle,Mountain,B,Scotland,Carnivore,Bird,210,390,Under observation,Old,18/11/2026,18/12/2026,Fed,15:15:0,10:30:0
+Simba,AN176,M,24,African Lion,Savanna,A,Kenya,Carnivore,Mammal,196,387,Minor injury,Young,20/12/2026,20/1/2026,Fed,12:15:0,17:30:0
+Storm,AN177,F,18,Wild Boar,Forest,C,Germany,Omnivore,Mammal,83,134,Recovering,Old,15/8/2026,15/9/2026,Fed,23:45:0,10:15:0
+Bruno,AN178,F,3,Great Horned Owl,Forest,E,USA,Carnivore,Bird,226,114,Excellent,Young,9/1/2026,9/2/2026,Unfed,9:15:0,6:30:0
+Storm,AN179,M,16,Giant Panda,Forest,E,China,Herbivore,Mammal,172,351,Recovering,Mature,24/8/2026,24/9/2026,Unfed,14:15:0,23:30:0
+Buddy,AN180,F,6,Giraffe,Savanna,E,Tanzania,Herbivore,Mammal,169,31,Under observation,Young,27/2/2026,27/3/2026,Fed,0:45:0,4:15:0
+Talon,AN181,M,1,Cheetah,Savanna,B,Tanzania,Carnivore,Mammal,134,234,Recovering,Young,21/10/2026,21/11/2026,Unfed,21:45:0,0:0:0
+Pixel,AN182,F,1,Saltwater Croc,Wetland,A,Australia,Carnivore,Reptile,140,370,Recovering,Old,1/5/2026,1/6/2026,Unfed,5:0:0,3:15:0
+Nala,AN183,F,12,Bison,Grassland,C,USA,Herbivore,Mammal,208,204,Healthy,Mature,15/7/2026,15/8/2026,Fed,22:15:0,9:0:0
+Flash,AN184,M,2,Koi,Freshwater,D,Japan,Omnivore,Fish,102,194,Under observation,Mature,21/1/2026,21/2/2026,Fed,22:15:0,2:45:0
+Flash,AN185,F,37,Wild Turkey,Forest,A,USA,Omnivore,Bird,234,271,Healthy,Young,28/4/2026,28/5/2026,Unfed,8:0:0,2:30:0
+Finn,AN186,M,12,Saltwater Croc,Wetland,C,Australia,Carnivore,Reptile,9,107,Under observation,Young,27/12/2026,27/1/2026,Unfed,2:30:0,5:15:0
+Storm,AN187,F,25,Galapagos Tort,Island,B,Ecuador,Herbivore,Reptile,207,353,Excellent,Young,24/9/2026,24/10/2026,Unfed,1:0:0,13:15:0
+Lily,AN188,F,25,Cheetah,Savanna,C,Tanzania,Carnivore,Mammal,12,325,Recovering,Mature,8/8/2026,8/9/2026,Unfed,17:45:0,13:15:0
+Hunter,AN189,F,2,Poison Dart Fr,Rainforest,E,Colombia,Carnivore,Amphibian,80,127,Excellent,Young,9/2/2026,9/3/2026,Fed,12:15:0,23:45:0
+Pepper,AN190,M,3,Chimpanzee,Rainforest,A,Congo,Omnivore,Mammal,246,158,Minor injury,Mature,4/5/2026,4/6/2026,Fed,2:15:0,13:45:0
+Pixel,AN191,F,7,Green Iguana,Rainforest,A,Brazil,Herbivore,Reptile,27,182,Under observation,Young,20/10/2026,20/11/2026,Unfed,12:0:0,9:45:0
+Smokey,AN192,M,36,Golden Eagle,Mountain,B,Scotland,Carnivore,Bird,151,267,Stable,Old,6/7/2026,6/8/2026,Fed,8:30:0,8:45:0
+Rocky,AN193,M,14,White Rhino,Savanna,C,South Africa,Herbivore,Mammal,112,154,Minor injury,Young,9/6/2026,9/7/2026,Fed,23:45:0,19:15:0
+Charlie,AN194,M,20,Macaw,Rainforest,A,Brazil,Herbivore,Bird,247,203,Recovering,Old,26/7/2026,26/8/2026,Unfed,14:30:0,13:15:0
+Bruno,AN195,M,16,Raccoon,Forest,C,USA,Omnivore,Mammal,50,204,Recovering,Mature,23/12/2026,23/1/2026,Unfed,18:15:0,10:45:0
+Sasha,AN196,F,4,Grizzly Bear,Forest,E,Canada,Omnivore,Mammal,56,304,Under observation,Young,25/11/2026,25/12/2026,Fed,23:45:0,22:15:0
+Duke,AN197,M,27,Flamingo,Wetland,D,Kenya,Herbivore,Bird,40,325,Recovering,Young,22/5/2026,22/6/2026,Fed,22:45:0,12:0:0
+Echo,AN198,F,38,Flamingo,Wetland,D,Kenya,Herbivore,Bird,141,260,Excellent,Mature,2/9/2026,2/10/2026,Unfed,22:0:0,3:15:0
+Maple,AN199,F,3,Piranha,Freshwater,E,Brazil,Carnivore,Fish,16,289,Excellent,Old,13/11/2026,13/12/2026,Unfed,13:0:0,0:0:0
