@@ -11,11 +11,11 @@ void Activity_Log(const char* staff_name, const char* staff_id, const char* acti
         return;
     }
 
-    time_t now = time(NULL);
-    struct tm* t = localtime(&now);
+    time_t now = time(NULL); // time_t now holds the number of seconds from 1 Jan 1970 (epoch ), raw computer friendly time
+    struct tm* t = localtime(&now); //converts it to human readable time
 
     fprintf(fp, "[%04d-%02d-%02d %02d:%02d:%02d] %s (%s) | %s | %s\n",
-        t->tm_year + 1900,
+        t->tm_year + 1900, //1900+126
         t->tm_mon  + 1,
         t->tm_mday,
         t->tm_hour,
