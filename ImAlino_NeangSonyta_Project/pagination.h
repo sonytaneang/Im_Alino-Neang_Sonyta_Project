@@ -2,6 +2,7 @@
 #define PAGINATION_H
 
 #include <stdio.h>
+#include "clear.h"
 
 #define PAGE_SIZE 7   // how many records per page - change as you like
 
@@ -25,25 +26,29 @@ void Paginate(int total_items, void (*print_item)(int)) {
 
     int total_pages = (total_items + PAGE_SIZE - 1) / PAGE_SIZE;
     int current_page = 0; // 0-indexed
+    int need_to_print = 1; // only print the page when something actually changed
 
     while (1) {
-        // clear-ish separator instead of full clearScreen() so user keeps context
-        printf("\n--------------------------------------------------\n");
-        printf("Page %d of %d\n", current_page + 1, total_pages);
-        printf("--------------------------------------------------\n");
+        if (need_to_print) {
+            clearScreen();
+            printf("\n--------------------------------------------------\n");
+            printf("Page %d of %d\n", current_page + 1, total_pages);
+            printf("--------------------------------------------------\n");
 
-        int start = current_page * PAGE_SIZE;
-        int end = start + PAGE_SIZE;
-        if (end > total_items){
-            end = total_items;
-        }
-        
-        for (int i = start; i < end; i++) {
-            print_item(i);
+            int start = current_page * PAGE_SIZE;
+            int end = start + PAGE_SIZE;
+            if (end > total_items) {
+                end = total_items;
+            }
+
+            for (int i = start; i < end; i++) {
+                print_item(i);
+            }
+
+            printf("--------------------------------------------------\n");
         }
 
-        printf("--------------------------------------------------\n");
-        printf("[N] Next  [P] Previous  [Q] Quit : ");
+        printf("[N] Next  [P] Previous  [Q] Quit or See Total : ");
 
         char choice;
         scanf(" %c", &choice);
@@ -51,15 +56,19 @@ void Paginate(int total_items, void (*print_item)(int)) {
         if (choice == 'n' || choice == 'N') {
             if (current_page < total_pages - 1) {
                 current_page++;
+                need_to_print = 1;
             } else {
                 printf("Already on the last page.\n");
+                need_to_print = 0;
             }
         }
         else if (choice == 'p' || choice == 'P') {
             if (current_page > 0) {
                 current_page--;
+                need_to_print = 1;
             } else {
                 printf("Already on the first page.\n");
+                need_to_print = 0;
             }
         }
         else if (choice == 'q' || choice == 'Q') {
@@ -67,6 +76,7 @@ void Paginate(int total_items, void (*print_item)(int)) {
         }
         else {
             printf("Invalid choice.\n");
+            need_to_print = 0;
         }
     }
 }
