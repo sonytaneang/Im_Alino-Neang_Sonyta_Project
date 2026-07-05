@@ -359,7 +359,7 @@ void search_by_Class(Animal_Info animal[], int* current_animal_count){
     Paginate(match_count, Print_Animal_Match_For_Paginate);
 
 
-    printf(" Class Member : %d\n", class_member);
+    printf("Class Member : %d\n", class_member);
 
     if(!found){
         printf("No Animals Found\n");
@@ -381,27 +381,27 @@ void Search_Animal(Animal_Info animal[], int* current_animal_count){
             case 2 :
                 clearScreen(); 
                 search_by_Species(animal, current_animal_count);
-                clearScreen(); 
+                pauseAndClear();
                 break;
             case 3 :
                 clearScreen(); 
                 search_by_Class(animal, current_animal_count);
-                clearScreen(); 
+                pauseAndClear();
                 break;
             case 4 : 
                 clearScreen(); 
                 search_by_Food_Category(animal, current_animal_count);
-                clearScreen(); 
+                pauseAndClear();
                 break;
             case 5 :
                 clearScreen(); 
                 search_by_Natural_Habitat(animal, current_animal_count);
-                clearScreen(); 
+                pauseAndClear();
                 break;
             case 6 :
                 clearScreen(); 
                 search_by_Habitat_Zone(animal, current_animal_count);
-                clearScreen(); 
+                pauseAndClear();
                 break;
             case 7 :
                 printf("Exited The System Successfully!\n");
