@@ -353,12 +353,12 @@ void Search_Staff(Staff_Info staff[], int* current_staff, int compare_position){
             case 2 :
                 clearScreen();
                 Search_Staff_By_Name(staff, current_staff);
-                clearScreen();
+                pauseAndClear();
                 break;
             case 3 :
                 clearScreen(); 
                 Search_Staff_By_Position(staff, current_staff);
-                clearScreen();
+                pauseAndClear();
                 break;
             case 4 :
                 printf("Exited The System Successfully!\n");
